@@ -24,9 +24,10 @@ Your credentials will be permanently stored in flash memory (NVS - Non-Volatile 
 
 At the next startup the esp32 will try to connect with the previously saved credentials.
 
+The library also includes a wifi scanner. 
+
 ![screen](https://github.com/MattiaB01/Wifi_Manager_EspIDF/assets/104713814/ff005a4a-0c36-4aec-aef9-421d178e1be6)
 
-The library also includes a wifi scanner. 
 
 
 
