@@ -14,7 +14,7 @@ startWifi();
 The only thing to do is add the files 
 wifi.c and wifi.h to your project
 
-To manage your credential you have to connect via wifi to the SSID:
+To manage your credentials you have to connect via wifi to the SSID:
 **MyESP32AP**
 than you have to connect to the address:
 ```
